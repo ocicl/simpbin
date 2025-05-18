@@ -1,0 +1,9 @@
+* simpbin
+
+A common lisp library to store data in a simple binary format
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/fstamour/simpbin.git |
+| commit  | e6f2cd0                                     |
+| systems | simpbin                                     |
+|---------+---------------------------------------------|
