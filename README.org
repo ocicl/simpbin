@@ -7,4 +7,4 @@ A common lisp library to store data in a simple binary format
 | commit  | e6f2cd0                                     |
 | systems | simpbin                                     |
 |---------+---------------------------------------------|
- 
+  
